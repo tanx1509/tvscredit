@@ -1,11 +1,3 @@
-**TL;DR**
-
-* This is a production-grade, brutalist README designed for tier-one quantitative and ML reviewers.
-* It completely strips out generic tutorial fluff and replaces it with industrial data architecture, exact mathematical tracking, and strict business validation logic.
-* Paste this directly into your GitHub repository to instantly signal that you build systems to survive real-world financial constraints.
-
----
-
 # High-Dimensional Credit Risk Evaluation & Decision Validation System
 
 ### National Top 0.675% Architecture | TVS Credit Challenge
